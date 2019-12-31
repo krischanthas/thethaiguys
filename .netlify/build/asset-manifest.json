@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.896c077d.chunk.css",
+    "main.js": "/static/js/main.4ff3a316.chunk.js",
+    "main.js.map": "/static/js/main.4ff3a316.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84f0134d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84f0134d.js.map",
+    "static/js/2.1083e643.chunk.js": "/static/js/2.1083e643.chunk.js",
+    "static/js/2.1083e643.chunk.js.map": "/static/js/2.1083e643.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1a7678eb77b0b312f60c605a2181f067.js": "/precache-manifest.1a7678eb77b0b312f60c605a2181f067.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.896c077d.chunk.css.map": "/static/css/main.896c077d.chunk.css.map",
+    "static/js/2.1083e643.chunk.js.LICENSE": "/static/js/2.1083e643.chunk.js.LICENSE",
+    "static/media/curry.jpg": "/static/media/curry.9d7a54ac.jpg",
+    "static/media/ingredients.jpg": "/static/media/ingredients.2f339a12.jpg",
+    "static/media/night-market.jpg": "/static/media/night-market.7b99d36b.jpg",
+    "static/media/pad.jpg": "/static/media/pad.baab760e.jpg",
+    "static/media/produce.jpg": "/static/media/produce.1f26185a.jpg",
+    "static/media/satay.jpg": "/static/media/satay.c1d03cf1.jpg",
+    "static/media/spices_small.jpg": "/static/media/spices_small.00dff03f.jpg",
+    "static/media/street-vendor.jpg": "/static/media/street-vendor.bdbb4ab0.jpg",
+    "static/media/tuttut.jpg": "/static/media/tuttut.d99879fb.jpg",
+    "static/media/wok.jpg": "/static/media/wok.6f3b353d.jpg",
+    "static/media/wok2.jpg": "/static/media/wok2.7ef92960.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84f0134d.js",
+    "static/js/2.1083e643.chunk.js",
+    "static/css/main.896c077d.chunk.css",
+    "static/js/main.4ff3a316.chunk.js"
+  ]
+}
