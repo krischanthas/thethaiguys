@@ -18,7 +18,7 @@ export default function Footer() {
                               </div>
                               &nbsp;
                               <div className="ig">
-                                    <a href="https://instagram.com/"><img src={ig} alt=""/></a></div>
+                                    <a href="https://instagram.com/thethaiguys_"><img src={ig} alt="The Thai Guys Instragram"/></a></div>
                               </Router>
                         </div>
                   </div>
