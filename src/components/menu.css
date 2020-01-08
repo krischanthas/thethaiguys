@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
 .menuBox {
       width: 100%;
-      height:500px;
+      /* height:500px; */
+      height: auto;
       min-height: 100vh;
       display: flex;
       justify-content: center;

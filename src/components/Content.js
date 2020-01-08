@@ -22,30 +22,17 @@ export default function Content() {
         <div className="col">
           <img src={tuttut_small} alt="" className="tuttut" />
           <img src={wok2} alt="" className="wok2" />
-                  <img src={spices} alt="" className="spices" />
-
+          <img src={spices} alt="" className="spices" />
         </div>
         <div className="col">
         <img src={pad} alt="pad"/>
         <img src={curry} alt="" className="curry" />
         <img src={nightMarket} alt="nightMarket"/>
-
         </div>
         <div className="col">
         <img id="wok" src={wok_small} alt="" className="wok" />
         <img id="produce" src={produce} alt=""/>
-
         <img id="satay" src={satay} alt=""/>
-          
-        
-        </div>
-      </div>
-      <div className="row">
-        <div className="col">
-        </div>
-        <div className="col">
-        </div>
-        <div className="col">
         </div>
       </div>
     </div>

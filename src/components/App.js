@@ -10,12 +10,12 @@ import Footer from './Footer';
 export default function App() {
     return (
         <div>
-            <Header/>,
-            <Content/>,
-            <AboutUs/>,
-            <Menu/>,
-            <Contact/>,
-            <GoogleMap/>,
+            <Header/>
+            <Content/>
+            <AboutUs/>
+            <Menu/>
+            <Contact/>
+            <GoogleMap/>
             <Footer/>
         </div>
     )
