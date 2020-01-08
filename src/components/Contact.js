@@ -6,6 +6,7 @@ export default function Contact() {
             <div className="contactBox" id="contact">
                   <div className="contact">
                   <h2>Accepting Orders Soon</h2>
+                  <h3>(562) 548-1237</h3>
                   <h3>1388 Daisy Ave, Long Beach, CA 90813</h3>
                   <h3><a href="mailto:contact@thethaiguys.com">Contact us!</a></h3>
                   </div>
