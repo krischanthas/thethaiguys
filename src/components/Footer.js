@@ -12,7 +12,7 @@ export default function Footer() {
                               <Router>
                               <div className="yelp">
                                     
-                                    <a href="https://www.yelp.com/">
+                                    <a href="https://www.yelp.com/biz/the-thai-guys-long-beach?osq=The+Thai+Guys">
                                     <img src={yelpIcon} alt="The Thai Guys Yelp"/>
                                     </a>
                               </div>
