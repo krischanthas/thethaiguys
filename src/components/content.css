@@ -54,6 +54,8 @@
       #produce {
         display:none;
       }
+
+
     }
     
     /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
@@ -62,6 +64,21 @@
         -ms-flex: 100%;
         flex: 100%;
         max-width: 100%;
+      }
+      #wok2 {
+        display: none;
+      }
+      #curry {
+        display:none;
+      }
+      #nightMarket {
+        display: none;
+      }
+      #spices {
+        display:none;
+      }
+      #pad {
+        display: none;
       }
       
     }

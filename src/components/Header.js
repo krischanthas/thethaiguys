@@ -11,14 +11,15 @@ export default function Header() {
         <div className="home ui content">The Thai Guys</div>
         <Router>
         <div className="right menu">
-          <Link smooth to='/#about'>
-            <div className="item">About Us</div>
+
+          <Link smooth to='/#contact'>          
+            <div className="item">Order</div>
           </Link>
           <Link smooth to='/#menu'>
           <div className="item">Menu</div>
           </Link>
-          <Link smooth to='/#contact'>          
-            <div className="item">Contact</div>
+          <Link smooth to='/#about'>
+            <div className="item">About Us</div>
           </Link>
           <Link smooth to='/#social'>
           <div className="item">Social</div>

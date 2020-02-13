@@ -52,13 +52,7 @@ export default function Contact() {
 
                               </Router>
                         </div>
-                        <h3>(562) 414-4418</h3>
-                        <h3>1388 Daisy Ave, Long Beach, CA 90813</h3>
-                        <h3>
-                              <a href="mailto:contact@thethaiguys.com">
-                                    Contact us!
-                              </a>
-                        </h3>
+                        
                   </div>
             </div>
       );

@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
 .contactBox {
       width: 100%;
       min-height: 100vh;
       display: flex;
       justify-content: center;
       flex-direction: column;
-
+      border-bottom: 1px solid black;
 }
 .contact {
       text-align: center;
 }
 h2 {
-    font-family: 'Bebas Neue';
-    font-size: 100px;
+      font-family: "Bebas Neue";
+      font-size: 100px;
 }
 
 h3 {
-      font-family: 'Arial';
+      font-family: "Arial";
       font-size: 30px;
 }

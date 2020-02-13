@@ -12,9 +12,12 @@ export default function App() {
         <div>
             <Header/>
             <Content/>
-            <AboutUs/>
-            <Menu/>
             <Contact/>
+
+
+            <Menu/>
+            <AboutUs/>
+
             <GoogleMap/>
             <Footer/>
         </div>
