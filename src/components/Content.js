@@ -16,7 +16,7 @@ import "./content.css";
 export default function Content() {
   return (
     <div>
-      <h1 className="jumbo">The Thai Guys</h1>
+      <h1 className="jumbo">Thai Guys</h1>
 
       <div className="rw">
         <div className="col">

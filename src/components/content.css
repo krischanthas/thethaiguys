@@ -10,10 +10,10 @@
       position: absolute;
       z-index: 1;
       color: white;
-      left: 26%;
+      left: 35%;
       top:42%;
       white-space: nowrap;
-      text-shadow: 4px 4px black;
+      text-shadow: 7px 3px black;
 }
 
 .rw {

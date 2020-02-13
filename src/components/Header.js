@@ -8,7 +8,7 @@ export default function Header() {
   return (
     <div>
       <div className="ui secondary pointing menu" id="menuBar">
-        <div className="home ui content">The Thai Guys</div>
+        <div className="home ui content">Thai Guys</div>
         <Router>
         <div className="right menu">
 

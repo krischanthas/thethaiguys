@@ -2,7 +2,7 @@ import React from 'react';
 import './footer.css';
 import yelpIcon from './assets/yelp-icon.png';
 import ig from './assets/instagram-icon.png';
-import { BrowserRouter as Router, Link } from 'react-router-dom'; 
+import { BrowserRouter as Router } from 'react-router-dom'; 
 
 export default function Footer() {
       const contact = {
