@@ -3,7 +3,6 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import page1 from './assets/1.jpg';
 import page2 from './assets/2.jpg';
-import page3 from './assets/3.jpg';
  
 class MenuCarousel extends Component {
     render() {
@@ -15,9 +14,7 @@ class MenuCarousel extends Component {
                 <div>
                     <img src={page2} alt="menu page 2"/>
                 </div>
-                <div>
-                    <img src={page3} alt="menu page 3" />
-                </div>
+           
             </Carousel>
         );
     }
