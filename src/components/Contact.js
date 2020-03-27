@@ -4,6 +4,7 @@ import "./contact.css";
 import red from './assets/red.png';
 import ubereats from './assets/ubereats.png';
 import gh from './assets/gh.png';
+import ez from './assets/catering-logo.png';
 
 export default function Contact() {
 
@@ -47,7 +48,14 @@ export default function Contact() {
                                           alt="Order delivery from GrubHub"
                                     />
                               </a>
-                              
+                              <br/>
+                              <a href="https://www.ezcater.com/catering/pvt/thai-guys-3?fcv=1">
+                                    <img
+                                          src={ez}
+                                          width="300px"
+                                          alt="We provide catering"
+                                    />
+                              </a>
                              
 
                               </Router>
